@@ -8,3 +8,5 @@ Pacemaker-1.1 リポジトリパッケージはすでに開発・サポートを
 
 このリポジトリは過去のリリースの参照用としての目的で提供しており、新規導入は推奨しません。
 
+### Pacemaker-repo-1.1系リポジトリパッケージ 過去のリリース一覧
+ * https://github.com/linux-ha-japan/Pacemaker-repo-1.1/releases
